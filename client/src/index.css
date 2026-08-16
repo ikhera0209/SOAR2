@@ -52,7 +52,7 @@
   .nav-cta { display: inline-flex; align-items: center; gap: 6px; padding: 12px 16px; border-radius: 999px; background: #09245C; color: #FFFDF7 !important; }
   .mobile-menu-button { display: none; border: 0; background: none; color: #09245C; }
   .hero-section { position: relative; min-height: 690px; padding: 145px 0 46px; background: #EEF7FC; }
-  .hero-paper { position: absolute; inset: 0; opacity: .32; background: url('/manus-storage/soar-hero-paper_a685805b.png') center/cover no-repeat; mix-blend-mode: multiply; }
+  .hero-paper { position: absolute; inset: 0; opacity: .32; background: url('/assets/soar-hero-paper.webp') center/cover no-repeat; mix-blend-mode: multiply; }
   .hero-grid { position: relative; display: grid; grid-template-columns: minmax(0, .96fr) minmax(360px, .78fr); gap: 75px; align-items: center; }
   .hero-copy { max-width: 625px; padding-bottom: 25px; }
   .chapter-label { display: flex; align-items: center; gap: 9px; color: #1B82C6; font-size: 11px; font-weight: 700; letter-spacing: .14em; line-height: 1; text-transform: uppercase; }
@@ -125,7 +125,7 @@
   .subject-card p { margin-top: 6px; color: #66738A; font-size: 11px; }
   .subject-card > svg { position: absolute; right: 22px; bottom: 22px; color: #1B82C6; }
   .empty-state { margin-top: 25px; padding: 20px; border: 1px dashed #6980A4; color: #A6B5CC; font-size: 13px; }
-  .section-note-shelf { position: relative; background-image: url('/manus-storage/soar-orbit-pattern_12a9d184.png'); background-position: 110% 68%; background-size: 38% auto; background-repeat: no-repeat; }
+  .section-note-shelf { position: relative; background-image: url('/assets/soar-orbit-pattern.webp'); background-position: 110% 68%; background-size: 38% auto; background-repeat: no-repeat; }
   .resource-layout { position: relative; z-index: 1; display: grid; grid-template-columns: .8fr 1.2fr; gap: 120px; }
   .resource-statement { position: sticky; top: 30px; align-self: start; }
   .resource-legend { display: grid; gap: 10px; margin-top: 42px; color: #66738A; font-size: 11px; }
